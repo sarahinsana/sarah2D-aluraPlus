@@ -1,7 +1,21 @@
 .button {
-    background-color: rgb(173, 144, 199);
+    background-color: rgb(233, 170, 185);
     border: none;
     border-radius: 5px;
     padding: 10px;
     font-size: large;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(236, 200, 208);
+}
+
+.titulo {
+    color: rgb(168, 88, 107);
+}
+
+.fidough1 {
+    width: 10%;
+    height: 10%;
 }
